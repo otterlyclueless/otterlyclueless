@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Aaron
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&pause=1200&color=EF4444&width=500&lines=probably+tweaking+something+right+now;building+things+that+started+small;simple+%3E+clever&center=true" alt="Typing SVG">
 
 *I build tools, systems, and random ideas that get a bit out of hand.*
 
@@ -14,7 +15,7 @@
 
 A mobile-first team builder for Pokémon Champions.
 
-<p align="center">
+<p align="left">
   <a href="https://otterlyclueless.github.io/champions-forge/">
     <img src="https://img.shields.io/badge/Open_App-ef4444?style=for-the-badge" />
   </a>
@@ -23,7 +24,7 @@ A mobile-first team builder for Pokémon Champions.
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="./assets/readme/demo.gif" width="85%" />
 </p>
 
@@ -37,6 +38,9 @@ Like Showdown but with some glitter.
 
 Built with vanilla HTML/CSS/JS + Supabase.  
 No frameworks, no build step, just full control.
+
+### 🎮 Currently training
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10104.png" width="72"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png" width="72"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10100.png" width="72"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/279.png" width="72"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/700.png" width="72"> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/135.png" width="72">
 
 ---
 
@@ -106,4 +110,9 @@ Not all Pokémon-shaped:
 
 *probably tweaking something right now*
 
+<img src="https://github-readme-stats.vercel.app/api?username=otterlyclueless&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0b&title_color=ef4444&icon_color=ef4444" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=otterlyclueless&theme=radical&hide_border=true&background=0a0a0b&stroke=ef4444&ring=ef4444&fire=f59e0b" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otterlyclueless&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0b&title_color=ef4444" />
+
+
+![Snake](https://raw.githubusercontent.com/otterlyclueless/otterlyclueless/output/snake.svg)
 </div>
