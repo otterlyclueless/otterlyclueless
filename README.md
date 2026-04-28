@@ -22,7 +22,7 @@ A mobile-first team builder for Pokémon Champions.
   <a href="https://github.com/otterlyclueless/champions-forge">
     <img src="https://img.shields.io/badge/View_Code-18181b?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://ko-fi.com/championsforge">
+  <a href="https://ko-fi.com/otterlyclueless">
     <img src="https://raw.githubusercontent.com/otterlyclueless/champions-forge/main/icons/kofi-badge.svg" />
   </a>
 </p>
